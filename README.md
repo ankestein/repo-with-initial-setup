@@ -1,6 +1,12 @@
-# Medical documentation app
+# Repository with initial setup
 
 ## About
-MedDoc is an app for recording and organizing information about medical appointments, examinations, symptoms and treatments.
-
-This is my capstone project within the _neuefische_ course _Full stack development with Java_.
+This repository is a clone of the medical-documentation repository as of 4 November 2021, after the initial setup steps have been done:
+- set up backend with Spring Web and Lombok
+- add continuous integration workflow Java with Maven
+- set up frontend: React app
+- add Prettier
+- add Sonar with code coverage
+- add MongoDB
+- add examplary data with GET request from frontend through backend into database
+- set up deployment to heroku
